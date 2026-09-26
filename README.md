@@ -101,17 +101,17 @@ javac -version
 ### 1. Menú Principal
 Muestra las opciones disponibles para el usuario con validación de entradas.
 
-![Menú Principal](capturas/menu.png)
+![Menú Principal](captura1.png)
 
 ### 2. Inserción de Productos
 Registro de productos con IDs desordenados y prevención de identificadores duplicados.
 
-![Inserción de Productos](capturas/insercion.png)
+![Inserción de Productos](captura2.png)
 
 ### 3. Búsqueda y Recorrido Inorden
 Listado ordenado ascendentemente por ID y resultados de búsqueda de IDs existentes y no existentes.
 
-![Búsqueda e Inventario](capturas/busqueda.png)
+![Búsqueda e Inventario](captura3.png)
 
 ---
 

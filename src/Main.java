@@ -4,6 +4,10 @@ import java.util.Scanner;
  * Clase principal que actúa como interfaz de consola para el sistema Tree-Stock.
  * Contiene el menú interactivo, la lectura de datos mediante Scanner y la
  * validación de entradas numéricas para evitar errores de ejecución.
+ * 
+ * Actividad: S30 - EA3. Actividad Final - Manipulación de Árboles en Java
+ * Materia: Estructura de Datos (Carlos Arturo Castro) - PREICA2602B010159
+ * Estudiante: Manuela Duque Contreras
  */
 public class Main {
 

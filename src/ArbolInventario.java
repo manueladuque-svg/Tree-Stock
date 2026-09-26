@@ -6,6 +6,10 @@
  * - El subárbol izquierdo contiene nodos con IDs menores a la raíz.
  * - El subárbol derecho contiene nodos con IDs mayores a la raíz.
  * - No se admiten elementos con claves duplicadas.
+ * 
+ * Actividad: S30 - EA3. Actividad Final - Manipulación de Árboles en Java
+ * Materia: Estructura de Datos (Carlos Arturo Castro) - PREICA2602B010159
+ * Estudiante: Manuela Duque Contreras
  */
 public class ArbolInventario {
     

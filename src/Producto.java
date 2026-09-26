@@ -2,6 +2,10 @@
  * Clase que representa un nodo dentro del Árbol Binario de Búsqueda (BST).
  * Cada nodo almacena la información de un producto del inventario
  * y contiene las referencias (punteros) a sus hijos izquierdo y derecho.
+ * 
+ * Actividad: S30 - EA3. Actividad Final - Manipulación de Árboles en Java
+ * Materia: Estructura de Datos (Carlos Arturo Castro) - PREICA2602B010159
+ * Estudiante: Manuela Duque Contreras
  */
 public class Producto {
     // Identificador único del producto (clave para ordenar el árbol)

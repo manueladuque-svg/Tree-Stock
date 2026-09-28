@@ -117,7 +117,7 @@ Listado ordenado ascendentemente por ID y resultados de búsqueda de IDs existen
 
 ## 📹 Video de Sustentación
 
-- **Enlace al video**: [Enlace de YouTube / Loom / Drive aquí]([https://youtube.com/](https://youtu.be/70bUx8U8yWc)) 
+- **Enlace al video**: [Enlace de YouTube / Loom / Drive aquí]([https://youtu.be/70bUx8U8yWc]) 
 - **Contenido del video**: Explicación del funcionamiento de los punteros en la clase `Producto`, la recursividad en `ArbolInventario` y demostración de ejecución del menú en `Main`.
 
 ---
